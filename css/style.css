@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: blue; 
+    font-weight: bold;
+    font-size: 40px;
+}
+h2 {
+    text-align: center;
+    color: green; 
+    font-weight: normal;
+     font-size: 30px;
+}
+i {
+color: green;
+}
+li {
+font-size: 20px;
+text-align: justify;
+}
+li {
+font-size: 20px;
+text-align: justify;
+}
+p {
+text-indent: 40px;
+text-align: justify;
+font-size: 20px;
+font-weight: normal;
+line-height: 25px;
+}
